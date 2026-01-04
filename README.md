@@ -149,4 +149,3 @@ Assessment/
 ## Author
 
 **Siddu HM**
-Technical Support & QA Automation Enthusiast
